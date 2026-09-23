@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Portfolio Analysis
 
-### SQL | Power BI | Data Analysis | Financial Analytics | KPI Reporting
+### SQL | Power BI | Power Query | Data Analysis | MS Excel | Financial Analytics | KPI Reporting 
 
 > An end-to-end **Bank Loan Portfolio Analysis** project using SQL and Power BI to evaluate lending performance, portfolio quality, borrower characteristics, repayment behavior, and regional trends.
 
